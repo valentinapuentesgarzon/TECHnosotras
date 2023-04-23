@@ -3,7 +3,7 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import Offcanvas from "react-bootstrap/Offcanvas";
 import logo from "../../../assets/Imagenes/Header/logo.png"
-import col from "../../../assets/Imagenes/Header/col.svg"
+import col from "../../../assets/Imagenes/Header/COL.png"
 import { Link, useLocation } from "react-router-dom";
 import "./header.css"
 
