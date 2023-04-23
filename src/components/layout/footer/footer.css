@@ -1,0 +1,17 @@
+.mi-componente {
+    margin: auto;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    
+  }
+  
+  .mi-componente h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .mi-componente p {
+    font-size: 16px;
+    line-height: 1.5;
+  }

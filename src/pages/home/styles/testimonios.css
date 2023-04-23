@@ -39,4 +39,8 @@
     width: 20%;
 }
 
+.imagen > img {
+    border-radius: 2rem;
+}
+
 

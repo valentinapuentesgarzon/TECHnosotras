@@ -1,0 +1,28 @@
+.col-4 > img {
+    width: 80%;
+}
+
+.col-4 > img:hover {
+    transform: scale(1.2);
+}
+
+
+
+.col-8 {
+    display: flex;
+    justify-content: end;
+    margin-right: 1rem;
+}
+
+.enseno {
+    background-color: #F0F6F9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+
+
+
+

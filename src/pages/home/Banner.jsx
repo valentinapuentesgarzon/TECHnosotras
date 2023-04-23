@@ -16,7 +16,7 @@ const Banner = () => {
             <div>
                 <h3>¿Qué deseas aprender o aportar <span>dentro de la comunidad?</span></h3>
                 <div className='banner-butts'>
-                    <Link to=""><button>Inicia ahora</button></Link>
+                    <Link to="" ><button>Inicia ahora</button></Link>
                     <div>
                         <img src={playIcon}/>
                         <button>Ver video</button>

@@ -1,8 +1,13 @@
 import React from 'react'
+import Aprendo from './aprendo'
+import Enseno from './Enseno'
 
 function Cursos() {
   return (
-    <div>Cursos</div>
+    <>
+      <Aprendo/>
+      <Enseno/>
+    </>
   )
 }
 

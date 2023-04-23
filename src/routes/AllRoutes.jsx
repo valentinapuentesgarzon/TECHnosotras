@@ -1,6 +1,7 @@
 import React from 'react'
 import { Routes, Route } from 'react-router-dom'
 import Home from '../pages/home/Home'
+import Cursos from '../pages/cursos/Cursos'
 
 
 function AllRoutes() {
@@ -8,6 +9,7 @@ function AllRoutes() {
     <>
     <Routes>
       <Route path="/" element={<Home/>} />
+      <Route path="/cursos" element={<Cursos/>} />
     </Routes>
     </>
   )
