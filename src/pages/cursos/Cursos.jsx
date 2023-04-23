@@ -1,12 +1,11 @@
 import React from 'react'
-
 import Enseno from './Enseno'
-import Aprendo from './aprendo'
+import Aprender from './Aprender'
 
 function Cursos() {
   return (
     <>
-      <Aprendo/>
+      <Aprender/>
       <Enseno/>
     </>
   )

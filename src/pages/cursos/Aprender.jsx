@@ -5,7 +5,7 @@ import enseno from '../../assets/Imagenes/Aprendo/yoenseno.png'
 import card1 from '../../assets/Imagenes/Aprendo/card1.png'
 
 
-function aprendo() {
+function Aprender() {
   return (
     <>
         <div className="mi-componente">
@@ -38,4 +38,4 @@ function aprendo() {
   )
 }
 
-export default aprendo
+export default Aprender
