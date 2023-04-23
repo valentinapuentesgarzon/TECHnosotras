@@ -1,7 +1,6 @@
 import React from 'react'
 import Testimonios from './Testimonios'
 import Preguntas from './Preguntas'
-
 import Banner from './Banner'
 import Info from './Info'
 
