@@ -1,0 +1,65 @@
+.info{
+    background-color: #F0F6F9;
+    padding: 4rem 0rem;
+    padding-bottom: 0;
+    width: 100%;
+}
+.info > div h3{
+    color: #6E6E6E;
+    font-size: 70px;
+    opacity: 0.1;
+    margin-bottom: -1.6rem;
+    font-weight: bold;
+}
+.info > div h4{
+    color: #6E6E6E;
+    font-size: 45px;
+    font-weight: bold;
+}
+.info > div p{
+    color: #6E6E6E;
+    font-size: 30px;
+}
+.beneficios{
+    gap: 4rem;
+    margin-top: 5.5rem;
+}
+.beneficios > div img{
+   width: 70px;
+}
+.beneficios > div p{
+    font-size: 24px;
+}
+.beneficios > div{
+    gap: 1rem;
+    background-color: #FFFFFF;
+    width: 300px;
+    height: 113px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+.beneficios > div:hover{
+    transform: scale(1.1);
+    transition: all .3s ease-in;
+}
+.stats{
+    gap: 5rem;
+    background-color: #3C6A73;
+    padding: 2.5rem;
+    margin-top: 0.8rem;
+    border-radius: 25px;
+    position: relative;
+    bottom: -5rem;
+}
+.stats div p:nth-child(1){
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: -0.4rem;
+    color: #FFFFFF;
+    font-weight: 900;
+}
+.stats div p:nth-child(2){
+    color: #FFFFFF;
+    font-size: 25px;
+}

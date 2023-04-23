@@ -1,0 +1,30 @@
+#logo{
+    height: 50px;
+}
+.header{
+    background-color: #FFFFFF;
+    box-shadow: 0px 2px 2px 0px rgba(143, 143, 143, 0.75);
+}
+.navegacion{
+    gap: 0.7rem;
+}
+.navegacion a{
+    color: #1E1E1E;
+    font-size: 18px;
+}
+.eventos{
+    color: #1E1E1E;
+    border: 2px solid #1E1E1E;
+    background-color: transparent;
+}
+.postulate{
+    color: #FFFFFF;
+    border: 3px solid #1E1E1E;
+    background-color: #1E1E1E;
+}
+
+.activado{
+    color: #000000;
+    border-bottom: 3px solid #1E1E1E;
+    font-weight: 600!important;
+}

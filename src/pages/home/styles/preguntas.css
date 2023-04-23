@@ -1,0 +1,46 @@
+.preguntas{
+    background-color: #F0F6F9 ;
+    width: 100%;
+    display: flex;
+    padding: 2rem;
+}
+
+.container1, .container2 {
+    width: 50%;
+}
+
+.container2{
+    margin-right: 2.5rem;
+}
+
+.container1 > h3 {
+    color: #6E6E6E;
+    font-size: 32px;
+    font-weight: 700;
+    margin-left: 5rem;
+}
+
+.container1 > p {
+    color: #6E6E6E;
+    font-size: 26px;
+    margin-bottom: 4rem;
+    margin-left: 5rem;
+    font-weight: 100;
+}
+
+#Btn {
+    margin-left: 5rem;
+    background-color: #3C6A73 ;
+    font-size: 20px;
+}
+
+#Btn:hover {
+    transform: scale(1.2);
+}
+
+.Question button{
+    color: #6E6E6E !important;
+    font-size: 23px !important;
+}
+
+
