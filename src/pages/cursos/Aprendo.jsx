@@ -1,11 +1,11 @@
 import React from 'react'
-import './styles/aprendo.css'
+import './styles/Aprendo.css'
 import bienvenida from '../../assets/Imagenes/Aprendo/bienvenida.png'
 import enseno from '../../assets/Imagenes/Aprendo/yoenseno.png'
 import card1 from '../../assets/Imagenes/Aprendo/card1.png'
 
 
-function Aprendo() {
+function aprendo() {
   return (
     <>
         <div className="mi-componente">
@@ -38,4 +38,4 @@ function Aprendo() {
   )
 }
 
-export default Aprendo
+export default aprendo

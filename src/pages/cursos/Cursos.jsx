@@ -1,6 +1,7 @@
 import React from 'react'
-import Aprendo from './aprendo'
+
 import Enseno from './Enseno'
+import Aprendo from './aprendo'
 
 function Cursos() {
   return (
