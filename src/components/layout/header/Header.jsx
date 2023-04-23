@@ -32,7 +32,7 @@ const Header = () => {
                   <Nav.Link as={Link} to="/" className={location.pathname === `/` ? `activado` : ``}>Home</Nav.Link>
                   <Nav.Link as={Link} to="/" className={location.pathname === `/about` ? `activado` : ``}>Quiénes Somos</Nav.Link>
                   <Nav.Link as={Link} to="/" className={location.pathname === `/talent` ? `activado` : ``}>Nuestro Talento</Nav.Link>
-                  <Nav.Link as={Link} to="/Cursos" className={location.pathname === `/cursos` ? `activado` : ``}>Cursos</Nav.Link>
+                  <Nav.Link as={Link} to="/Cursos" className={location.pathname === `/Cursos` ? `activado` : ``}>Cursos</Nav.Link>
                   <Nav.Link>|</Nav.Link>
                   <Nav.Link as={Link} to="/">COL <img src={col} className="mb-1"/></Nav.Link>
                   <Nav.Link as={Link} to="/" className={location.pathname === `/eventos` ? `activado` : ``}><button className="eventos px-3 mb-1">Eventos</button></Nav.Link>

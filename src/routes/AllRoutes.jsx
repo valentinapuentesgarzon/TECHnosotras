@@ -9,7 +9,7 @@ function AllRoutes() {
     <>
     <Routes>
       <Route path="/" element={<Home/>} />
-      <Route path="/cursos" element={<Cursos/>} />
+      <Route path="/Cursos" element={<Cursos/>} />
     </Routes>
     </>
   )
